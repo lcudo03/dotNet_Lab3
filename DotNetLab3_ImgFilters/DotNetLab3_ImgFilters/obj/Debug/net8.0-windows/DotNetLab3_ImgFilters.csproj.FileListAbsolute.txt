@@ -1,0 +1,16 @@
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\bin\Debug\net8.0-windows\DotNetLab3_ImgFilters.exe
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\bin\Debug\net8.0-windows\DotNetLab3_ImgFilters.deps.json
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\bin\Debug\net8.0-windows\DotNetLab3_ImgFilters.runtimeconfig.json
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\bin\Debug\net8.0-windows\DotNetLab3_ImgFilters.dll
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\bin\Debug\net8.0-windows\DotNetLab3_ImgFilters.pdb
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\obj\Debug\net8.0-windows\DotNetLab3_ImgFilters.Form1.resources
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\obj\Debug\net8.0-windows\DotNetLab3_ImgFilters.csproj.GenerateResource.cache
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\obj\Debug\net8.0-windows\DotNetLab3_ImgFilters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\obj\Debug\net8.0-windows\DotNetLab3_ImgFilters.AssemblyInfoInputs.cache
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\obj\Debug\net8.0-windows\DotNetLab3_ImgFilters.AssemblyInfo.cs
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\obj\Debug\net8.0-windows\DotNetLab3_ImgFilters.csproj.CoreCompileInputs.cache
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\obj\Debug\net8.0-windows\DotNetLab3_ImgFilters.dll
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\obj\Debug\net8.0-windows\refint\DotNetLab3_ImgFilters.dll
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\obj\Debug\net8.0-windows\DotNetLab3_ImgFilters.pdb
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\obj\Debug\net8.0-windows\DotNetLab3_ImgFilters.genruntimeconfig.cache
+C:\Users\cudo4\source\repos\DotNetLab3_ImgFilters\DotNetLab3_ImgFilters\obj\Debug\net8.0-windows\ref\DotNetLab3_ImgFilters.dll

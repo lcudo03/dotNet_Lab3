@@ -1,0 +1,14 @@
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\bin\Debug\net8.0\DotNetLab3.exe
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\bin\Debug\net8.0\DotNetLab3.deps.json
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\bin\Debug\net8.0\DotNetLab3.runtimeconfig.json
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\bin\Debug\net8.0\DotNetLab3.dll
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\bin\Debug\net8.0\DotNetLab3.pdb
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\obj\Debug\net8.0\DotNetLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\obj\Debug\net8.0\DotNetLab3.AssemblyInfoInputs.cache
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\obj\Debug\net8.0\DotNetLab3.AssemblyInfo.cs
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\obj\Debug\net8.0\DotNetLab3.csproj.CoreCompileInputs.cache
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\obj\Debug\net8.0\DotNetLab3.dll
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\obj\Debug\net8.0\refint\DotNetLab3.dll
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\obj\Debug\net8.0\DotNetLab3.pdb
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\obj\Debug\net8.0\DotNetLab3.genruntimeconfig.cache
+C:\Users\cudo4\source\repos\DotNetLab3\DotNetLab3\obj\Debug\net8.0\ref\DotNetLab3.dll
